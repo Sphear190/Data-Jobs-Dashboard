@@ -1,6 +1,6 @@
 # Data Job Dashboard Using Power BI
 
-![First Page](/images/data_jobs_dashboard_image.jpg)
+![First Page](/images/data_jobs_dashboard_image.png)
 
 ## Introduction
 
@@ -32,4 +32,5 @@ The second page displays more detailed data about the individual jobs giving the
 
 
 This Dashboard uses a variety of charts that display vast range of data related to individual *Data Jobs*. Using Poer BI it is presented in a clean and easy to navigate format with the purpose of being user friendly. Anyone looking for a data job with this dashboard will be able to get a better idea of not only what these individual jobs offer but where and when to apply for one.
+
 
