@@ -24,7 +24,7 @@ The First page uses basic comparisons of data jobs to give the user a simple ide
 
 ### Second Page: Drill Through Details
 
-![Second Page](/Images/job_title_drill_through_image.png)
+![Second Page](/Data_Jobs_Dashboard/Images/job_title_drill_through_image.png)
 
 The second page displays more detailed data about the individual jobs giving the user a better idea of what the job may offer and even where to apply for the job. If they find the job not up to their needs, they can then click the go back button to return to the first page and look at a different job.
 
@@ -32,6 +32,7 @@ The second page displays more detailed data about the individual jobs giving the
 
 
 This Dashboard uses a variety of charts that display vast range of data related to individual *Data Jobs*. Using Poer BI it is presented in a clean and easy to navigate format with the purpose of being user friendly. Anyone looking for a data job with this dashboard will be able to get a better idea of not only what these individual jobs offer but where and when to apply for one.
+
 
 
 
